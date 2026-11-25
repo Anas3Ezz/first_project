@@ -1,5 +1,3 @@
-import 'package:first_project/login_screen.dart';
-import 'package:first_project/screen2.dart';
 import 'package:first_project/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 
